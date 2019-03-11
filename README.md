@@ -1,0 +1,1 @@
+no_negative_stock_12
